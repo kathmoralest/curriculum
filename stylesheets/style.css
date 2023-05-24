@@ -1,1 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
+h1, h2, h3 {    
+    font-family: Roboto;
+}
+
+* {
+    font-family: Arial, sans-serif;
+}
+
+.clase{
+    font-family: 'Times New Roman', serif;
+}
+
+h1 {
+    font-family: Georgia,serif;
+}
+
+a {
+   text-decoration: none;
+   font-size: 1.2rem; 
+}
+
+/** Colors**/
+
+.cronologico {
+    background-color: #8bc0d0;
+}
+
+.cronologico>h2{
+    color: #c7dceb;
+}
+
+#myClass > #myDiv {
+    background-color:aliceblue;
+}
+
+#img {
+    border: 1pt solid black;
+    background: 1.1 rem;
+    margin-top: 10px;
+    margin: 0 25%;
+    margin-bottom: 2px;
+}
+
+section {
+    
+}
